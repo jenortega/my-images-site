@@ -15,6 +15,7 @@ I am making it personal by adding pictures I have taken during trips. This will 
 ## Technologies
 * HTML5
 * CSS3
+* Bootstrap 4
 
 ## Status
 This project is in progress. Pictures will be added. 
