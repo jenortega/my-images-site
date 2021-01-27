@@ -6,6 +6,11 @@ This is a personal project. The purpose of this project is to apply what I have 
 I am making it personal by adding pictures I have taken during trips. This will be a fun project!
 
 ## Screenshots
+![my-images-site-1.png](./images/screenshots/my-images-site-1.png)
+
+![my-images-site-2.png](./images/screenshots/my-images-site-2.png)
+
+![my-images-site-3.png](./images/screenshots/my-images-site-3.png)
 
 ## Technologies
 * HTML5
